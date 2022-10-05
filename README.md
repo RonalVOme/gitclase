@@ -1,1 +1,3 @@
 # gitclase
+
+ESTE ES MI PRIMER PROYECTO DE GIT
